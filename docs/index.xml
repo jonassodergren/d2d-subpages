@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Some Title</title>
-    <link>https://jonassodergren.github.io/d2d-subpages/</link>
+    <link>https://info.bagandback.se/</link>
     <description>Recent content on Some Title</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 06 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://jonassodergren.github.io/d2d-subpages/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 06 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://info.bagandback.se/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cookie</title>
-      <link>https://jonassodergren.github.io/d2d-subpages/cookie/</link>
+      <link>https://info.bagandback.se/cookie/</link>
       <pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://jonassodergren.github.io/d2d-subpages/cookie/</guid>
+      <guid>https://info.bagandback.se/cookie/</guid>
       <description>Detta är en privacypolicy för tjänsten.</description>
     </item>
     
     <item>
       <title>FAQ</title>
-      <link>https://jonassodergren.github.io/d2d-subpages/faq/</link>
+      <link>https://info.bagandback.se/faq/</link>
       <pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://jonassodergren.github.io/d2d-subpages/faq/</guid>
+      <guid>https://info.bagandback.se/faq/</guid>
       <description>Detta är en privacypolicy för tjänsten.</description>
     </item>
     
     <item>
       <title>Kontakt</title>
-      <link>https://jonassodergren.github.io/d2d-subpages/contact/</link>
+      <link>https://info.bagandback.se/contact/</link>
       <pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://jonassodergren.github.io/d2d-subpages/contact/</guid>
+      <guid>https://info.bagandback.se/contact/</guid>
       <description>Detta är en privacypolicy för tjänsten.</description>
     </item>
     
     <item>
       <title>Privacypolicy</title>
-      <link>https://jonassodergren.github.io/d2d-subpages/privacy/</link>
+      <link>https://info.bagandback.se/privacy/</link>
       <pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://jonassodergren.github.io/d2d-subpages/privacy/</guid>
+      <guid>https://info.bagandback.se/privacy/</guid>
       <description>Detta är en privacypolicy för tjänsten.</description>
     </item>
     
