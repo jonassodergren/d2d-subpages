@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Legal on Some Title</title>
+    <link>https://jonassodergren.github.io/d2d-subpages/tags/legal/</link>
+    <description>Recent content in Legal on Some Title</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 06 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://jonassodergren.github.io/d2d-subpages/tags/legal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cookie</title>
+      <link>https://jonassodergren.github.io/d2d-subpages/cookie/</link>
+      <pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://jonassodergren.github.io/d2d-subpages/cookie/</guid>
+      <description>Detta är en privacypolicy för tjänsten.</description>
+    </item>
+    
+    <item>
+      <title>Privacypolicy</title>
+      <link>https://jonassodergren.github.io/d2d-subpages/privacy/</link>
+      <pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://jonassodergren.github.io/d2d-subpages/privacy/</guid>
+      <description>Detta är en privacypolicy för tjänsten.</description>
+    </item>
+    
+  </channel>
+</rss>
