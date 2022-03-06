@@ -7,4 +7,4 @@ draft: false
 tags: ["Legal"]
 ---
 
-Detta är en privacypolicy för tjänsten.
+Detta är en privacypolicy för tjänsten. Våran idé är att samla så lite information som möjligt om användaren. Den informationen som faktiskt sparar listar vi på denna sida.

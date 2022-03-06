@@ -7,4 +7,4 @@ draft: false
 tags: ["Legal"]
 ---
 
-Detta är en privacypolicy för tjänsten.
+Målet är att inte registrera några cookies. I dagsläget registreras eller spåras inte användaren.

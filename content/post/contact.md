@@ -7,4 +7,4 @@ draft: false
 tags: ["contact"]
 ---
 
-Detta är en privacypolicy för tjänsten.
+Enklast når du oss via info@bagandback.se.

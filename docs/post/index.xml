@@ -13,7 +13,17 @@
       <pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate>
       
       <guid>https://info.bagandback.se/cookie/</guid>
-      <description>Detta är en privacypolicy för tjänsten.</description>
+      <description>Målet är att inte registrera några cookies. I dagsläget registreras eller spåras inte användaren.</description>
+    </item>
+    
+    <item>
+      <title>Credit</title>
+      <link>https://info.bagandback.se/credit/</link>
+      <pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://info.bagandback.se/credit/</guid>
+      <description>Här tackar vi alla som gjort denna tjänst möjligt.
+Bilderna på startsidan </description>
     </item>
     
     <item>
@@ -22,7 +32,7 @@
       <pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate>
       
       <guid>https://info.bagandback.se/faq/</guid>
-      <description>Detta är en privacypolicy för tjänsten.</description>
+      <description>De vanligaste frågorn svarar vi på här.</description>
     </item>
     
     <item>
@@ -31,7 +41,7 @@
       <pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate>
       
       <guid>https://info.bagandback.se/contact/</guid>
-      <description>Detta är en privacypolicy för tjänsten.</description>
+      <description>Enklast når du oss via info@bagandback.se.</description>
     </item>
     
     <item>
@@ -40,7 +50,7 @@
       <pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate>
       
       <guid>https://info.bagandback.se/privacy/</guid>
-      <description>Detta är en privacypolicy för tjänsten.</description>
+      <description>Detta är en privacypolicy för tjänsten. Våran idé är att samla så lite information som möjligt om användaren. Den informationen som faktiskt sparar listar vi på denna sida.</description>
     </item>
     
   </channel>

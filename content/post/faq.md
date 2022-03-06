@@ -7,4 +7,4 @@ draft: false
 tags: ["support"]
 ---
 
-Detta är en privacypolicy för tjänsten.
+De vanligaste frågorn svarar vi på här.
